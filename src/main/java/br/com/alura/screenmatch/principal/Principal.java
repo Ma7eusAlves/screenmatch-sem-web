@@ -113,6 +113,9 @@ public class Principal {
         System.out.println("Pior episódio: " + est.getMin());
         System.out.println("Quantidade: " + est.getCount());;
 
+
+
+
     }
 
 }
